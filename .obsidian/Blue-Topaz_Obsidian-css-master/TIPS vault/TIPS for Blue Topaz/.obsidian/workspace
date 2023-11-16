@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "48ee1388febfa3b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "54cc3e6a0c0e01e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "从这开始.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a415daa86432b124",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81510a95c5c0ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99bef4fa3a659a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc1aac8d7e65f16c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#two_words",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14387c88da2dde40",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.00000190734863
+  },
+  "right": {
+    "id": "f78de58b2de3596e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee5b50d07ff23a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b838e7367b1bc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "从这开始.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "488868552f58f1a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "从这开始.md"
+              }
+            }
+          },
+          {
+            "id": "886f55cb1d50dfae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f396c26adad0d89e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "从这开始.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3f90e4bebd06489b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.32794189453125
+  },
+  "active": "54cc3e6a0c0e01e1",
+  "lastOpenFiles": [
+    "从这开始.md",
+    "伪看板.md",
+    "Untitled Kanban.md",
+    "obsidian_image.png",
+    "inline-list.md",
+    "Image-grid.md",
+    "code-wrap.md",
+    "Image-grid-1.md",
+    "Image-captions.md"
+  ]
+}

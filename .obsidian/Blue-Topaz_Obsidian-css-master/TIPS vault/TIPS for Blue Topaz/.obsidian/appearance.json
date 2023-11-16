@@ -1,0 +1,16 @@
+{
+  "baseFontSize": 17,
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "【卡片视图】cards",
+    "【卡片视图】zettelkasten",
+    "【图标】checkbox",
+    "【自定义】表格样式TableStyles",
+    "【自定义】多彩进度条",
+    "【图标】预览网址加图标 - External Link Icons",
+    "【图标】iconfont",
+    "custom-admonitions.c9c6cb"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "b7b0d2e863b886cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "78c8399ddeeb85ed",
+        "type": "tabs",
+        "dimension": 51.143583227446,
+        "children": [
+          {
+            "id": "5f18d3072345ae1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NvSwc/Requirenments/需求文档.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "7d3538e85d8c8004"
+          }
+        ]
+      },
+      {
+        "id": "95ead3b7a7f34c57",
+        "type": "tabs",
+        "dimension": 48.856416772554,
+        "children": [
+          {
+            "id": "f076cbd04ea78154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NvSwc/Requirenments/需求文档.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "7d3538e85d8c8004"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67987352b91048b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e86a89b0686541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "931440ba6435054f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8458a3f7a1daaeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Rte_C_1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b41f58c176499c53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "daffa4892b0e92a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e31699e43a3bfeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdebeb717441c2bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NvSwc/Requirenments/需求文档.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d80fcd10cd787e16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NvSwc/Requirenments/需求文档.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcad062fe7871230",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2fd50ef140365c02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NvSwc/Requirenments/需求文档.md"
+              }
+            }
+          },
+          {
+            "id": "3f9d33c0fd7fa406",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a8458a3f7a1daaeb",
+  "lastOpenFiles": [
+    "NvSwc/Requirenments/需求文档.md",
+    "NvSwc",
+    "2023-11-15.md",
+    "未命名.canvas",
+    "NvSwc/Requirenments/pic/config/temp.png",
+    "NvSwc/Requirenments/pic/config/SetRoleBasedDataAssignmentShutDown.png",
+    "NvSwc/Requirenments/pic/config/SetNvTimingEvent.png",
+    "NvSwc/Requirenments/pic/config/SetNvMCommon.png",
+    "NvSwc/Requirenments/pic/config/SetNvMBlock.png",
+    "NvSwc/Requirenments/pic/config/SetModeSwitchActivity.png",
+    "NvSwc/Requirenments/pic/config/SetAllocation.png",
+    "NvSwc/Requirenments/pic/config/Rte_Write_Add_Access.png",
+    "NvSwc/Requirenments/pic/config/Rte_Read_Add_Access.png",
+    "NvSwc/Requirenments/pic/config/Rte_IWrite_Add_Access.png",
+    "NvSwc/Requirenments/pic/config",
+    "NvSwc/Requirenments/pic",
+    "NvSwc/Requirenments/需求文档.html",
+    "NvSwc/Requirenments"
+  ]
+}

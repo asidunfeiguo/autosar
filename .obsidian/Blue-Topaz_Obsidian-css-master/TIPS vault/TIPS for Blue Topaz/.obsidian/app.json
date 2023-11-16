@@ -1,0 +1,17 @@
+{
+  "foldIndent": true,
+  "foldHeading": true,
+  "readableLineLength": true,
+  "communityThemeSortOrder": "download",
+  "showFrontmatter": false,
+  "livePreview": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/",
+  "showLineNumber": true
+}
