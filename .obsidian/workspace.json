@@ -1,15 +1,26 @@
 {
   "main": {
-    "id": "b7b0d2e863b886cc",
+    "id": "46d73ded41f6bb2c",
     "type": "split",
     "children": [
       {
-        "id": "78c8399ddeeb85ed",
+        "id": "a32063808536df72",
         "type": "tabs",
-        "dimension": 51.143583227446,
         "children": [
           {
-            "id": "5f18d3072345ae1b",
+            "id": "e68707a51fa954f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NvSwc/Requirenments/协议思考-待增加.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64aeb7d4a797b1df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,28 +29,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "7d3538e85d8c8004"
-          }
-        ]
-      },
-      {
-        "id": "95ead3b7a7f34c57",
-        "type": "tabs",
-        "dimension": 48.856416772554,
-        "children": [
-          {
-            "id": "f076cbd04ea78154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NvSwc/Requirenments/需求文档.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "7d3538e85d8c8004"
+            }
           }
         ]
       }
@@ -47,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "67987352b91048b0",
+    "id": "349e63f6e9b26ef9",
     "type": "split",
     "children": [
       {
-        "id": "36e86a89b0686541",
+        "id": "e8a589591ea5fb4d",
         "type": "tabs",
         "children": [
           {
-            "id": "931440ba6435054f",
+            "id": "b8c00d4efaf59e7c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,12 +55,12 @@
             }
           },
           {
-            "id": "a8458a3f7a1daaeb",
+            "id": "b964aef6f6c805c7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Rte_C_1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,35 +70,35 @@
             }
           },
           {
-            "id": "b41f58c176499c53",
+            "id": "6ddbf1f4a72e9911",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "daffa4892b0e92a2",
+    "id": "39b9c5002ac7ee63",
     "type": "split",
     "children": [
       {
-        "id": "8e31699e43a3bfeb",
+        "id": "c3c2b0fe20a99184",
         "type": "tabs",
         "children": [
           {
-            "id": "bdebeb717441c2bc",
+            "id": "939da588bca4b61d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md",
+                "file": "NvSwc/Requirenments/协议思考-待增加.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,19 +110,19 @@
             }
           },
           {
-            "id": "d80fcd10cd787e16",
+            "id": "162b6a63c81d4fd3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md",
+                "file": "NvSwc/Requirenments/协议思考-待增加.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bcad062fe7871230",
+            "id": "4837de2ae95a66c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,25 +133,16 @@
             }
           },
           {
-            "id": "2fd50ef140365c02",
+            "id": "d9fb538181fd1a71",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md"
+                "file": "NvSwc/Requirenments/协议思考-待增加.md"
               }
             }
-          },
-          {
-            "id": "3f9d33c0fd7fa406",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,29 +156,39 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pkmer:Open Pkmer Market": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a8458a3f7a1daaeb",
+  "active": "939da588bca4b61d",
   "lastOpenFiles": [
     "NvSwc/Requirenments/需求文档.md",
-    "NvSwc",
-    "2023-11-15.md",
-    "未命名.canvas",
-    "NvSwc/Requirenments/pic/config/temp.png",
-    "NvSwc/Requirenments/pic/config/SetRoleBasedDataAssignmentShutDown.png",
-    "NvSwc/Requirenments/pic/config/SetNvTimingEvent.png",
-    "NvSwc/Requirenments/pic/config/SetNvMCommon.png",
-    "NvSwc/Requirenments/pic/config/SetNvMBlock.png",
-    "NvSwc/Requirenments/pic/config/SetModeSwitchActivity.png",
-    "NvSwc/Requirenments/pic/config/SetAllocation.png",
-    "NvSwc/Requirenments/pic/config/Rte_Write_Add_Access.png",
-    "NvSwc/Requirenments/pic/config/Rte_Read_Add_Access.png",
-    "NvSwc/Requirenments/pic/config/Rte_IWrite_Add_Access.png",
-    "NvSwc/Requirenments/pic/config",
-    "NvSwc/Requirenments/pic",
-    "NvSwc/Requirenments/需求文档.html",
-    "NvSwc/Requirenments"
+    "NvSwc/Requirenments/协议思考-待增加.md",
+    "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
+    "NvSwc/未命名.canvas",
+    "pic/Pasted image 20231122143952.png",
+    "pic/Pasted image 20231122142726.png",
+    "pic/Pasted image 20231122141610.png",
+    "pic/Pasted image 20231122141548.png",
+    "pic/Pasted image 20231122141047.png",
+    "pic/Pasted image 20231122151108.png",
+    "pic/Pasted image 20231122150107.png",
+    "pic/Pasted image 20231122145704.png",
+    "pic",
+    "新建文件夹",
+    "~快捷方式.tmp",
+    "新快捷方式.lnk",
+    "Pasted image 20231122141047.png",
+    "Rte/EAS21-11_Rte需求/image/nvswc/perinstance/NewCtyped1.png",
+    "image/ms/ModeSwitchInterface.png.md",
+    "image/ms",
+    "image",
+    "Rte/EAS21-11_Rte需求/image/para",
+    "Rte/EAS21-11_Rte需求/image/nvswc/perinstance",
+    "Rte/EAS21-11_Rte需求/image/nvswc/config",
+    "Rte/EAS21-11_Rte需求/image/nvswc",
+    "定义永久Ram类型code_swc.h.md",
+    "定义永久Ram类型code.md"
   ]
 }

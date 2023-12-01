@@ -1,9 +1,12 @@
 [
-  "pkmer",
+  "table-editor-obsidian",
   "editing-toolbar",
   "obsidian-kanban",
-  "obsidian-tasks-plugin",
-  "table-editor-obsidian",
   "obsidian-git",
-  "obsidian-style-settings"
+  "pkmer",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "obsidian-version-history-diff",
+  "obsidian-image-auto-upload-plugin",
+  "webpage-html-export"
 ]

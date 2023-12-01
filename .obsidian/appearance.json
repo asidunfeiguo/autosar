@@ -1,7 +1,9 @@
 {
   "accentColor": "",
-  "theme": "system",
-  "textFontFamily": "Consolas",
   "cssTheme": "Blue Topaz",
-  "baseFontSize": 19
+  "textFontFamily": "霞鹜文楷,霞鹜文楷等宽",
+  "interfaceFontFamily": "Consolas",
+  "baseFontSize": 21,
+  "theme": "moonstone",
+  "translucency": true
 }
