@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "39b9c5002ac7ee63",
@@ -161,10 +160,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "939da588bca4b61d",
+  "active": "e68707a51fa954f1",
   "lastOpenFiles": [
     "NvSwc/Requirenments/需求文档.md",
     "NvSwc/Requirenments/协议思考-待增加.md",
+    "未命名看板.md",
     "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
     "NvSwc/未命名.canvas",
     "pic/Pasted image 20231122143952.png",
