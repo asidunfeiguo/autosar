@@ -8,5 +8,6 @@
   },
   "readableLineLength": true,
   "foldIndent": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "pic"
 }

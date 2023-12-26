@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a32063808536df72",
+        "id": "891db2989fda3d49",
         "type": "tabs",
         "children": [
           {
-            "id": "e68707a51fa954f1",
+            "id": "a19c8b8fe7841bae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "NvSwc/Requirenments/协议思考-待增加.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64aeb7d4a797b1df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NvSwc/Requirenments/需求文档.md",
-                "mode": "source",
-                "source": false
+                "file": "00_schedule/00_work.md"
               }
             }
           }
@@ -81,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "39b9c5002ac7ee63",
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NvSwc/Requirenments/协议思考-待增加.md",
+                "file": "00_schedule/00_work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NvSwc/Requirenments/协议思考-待增加.md",
+                "file": "00_schedule/00_work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +124,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NvSwc/Requirenments/协议思考-待增加.md"
+                "file": "00_schedule/00_work.md"
               }
             }
+          },
+          {
+            "id": "f94900754cca3e04",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,13 +157,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e68707a51fa954f1",
+  "active": "a19c8b8fe7841bae",
   "lastOpenFiles": [
-    "NvSwc/Requirenments/需求文档.md",
+    "NvSwc/test/冒烟测试.md",
+    "00_schedule/00_work.md",
+    "study/应用软件/应用软件沙龙.md",
+    "study/应用软件",
+    "study",
     "NvSwc/Requirenments/协议思考-待增加.md",
-    "未命名看板.md",
-    "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
     "NvSwc/未命名.canvas",
+    "Pasted image 20231222175023.png",
+    "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
+    "NvSwc/Requirenments/需求文档.md",
+    "冒烟测试.md",
+    "00_schedule",
+    "NvSwc/test",
+    "未命名看板.md",
     "pic/Pasted image 20231122143952.png",
     "pic/Pasted image 20231122142726.png",
     "pic/Pasted image 20231122141610.png",
@@ -180,14 +186,9 @@
     "~快捷方式.tmp",
     "新快捷方式.lnk",
     "Pasted image 20231122141047.png",
-    "Rte/EAS21-11_Rte需求/image/nvswc/perinstance/NewCtyped1.png",
     "image/ms/ModeSwitchInterface.png.md",
     "image/ms",
     "image",
-    "Rte/EAS21-11_Rte需求/image/para",
-    "Rte/EAS21-11_Rte需求/image/nvswc/perinstance",
-    "Rte/EAS21-11_Rte需求/image/nvswc/config",
-    "Rte/EAS21-11_Rte需求/image/nvswc",
     "定义永久Ram类型code_swc.h.md",
     "定义永久Ram类型code.md"
   ]
