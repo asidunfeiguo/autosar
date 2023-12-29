@@ -11,9 +11,11 @@
             "id": "a19c8b8fe7841bae",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00_schedule/00_work.md"
+                "file": "NvSwc/Requirenments/需求文档.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_schedule/00_work.md",
+                "file": "NvSwc/Requirenments/需求文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_schedule/00_work.md",
+                "file": "NvSwc/Requirenments/需求文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_schedule/00_work.md"
+                "file": "NvSwc/Requirenments/需求文档.md"
               }
             }
           },
@@ -137,12 +139,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,15 +160,16 @@
   },
   "active": "a19c8b8fe7841bae",
   "lastOpenFiles": [
-    "NvSwc/test/冒烟测试.md",
+    "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
     "00_schedule/00_work.md",
     "study/应用软件/应用软件沙龙.md",
+    "未命名.md",
+    "NvSwc/未命名.canvas",
+    "NvSwc/test/冒烟测试.md",
     "study/应用软件",
     "study",
     "NvSwc/Requirenments/协议思考-待增加.md",
-    "NvSwc/未命名.canvas",
     "Pasted image 20231222175023.png",
-    "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
     "NvSwc/Requirenments/需求文档.md",
     "冒烟测试.md",
     "00_schedule",
