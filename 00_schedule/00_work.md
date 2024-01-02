@@ -15,7 +15,8 @@ kanban-plugin: basic
 
 ## nvswc升级
 
-- [ ] PIM
+- [x] PIM开发
+- [ ] PIM调试
 
 
 ## nvswc测试
@@ -25,7 +26,7 @@ kanban-plugin: basic
 
 ## 重要不紧急 每<font color="#e36c09">两天至少2h</font>做
 
-- [ ] simulink集成培训
+- [ ] [simulink集成培训](simulink集成培训.md)
 - [ ] OS调试
 - [ ] 诊断模块学习、开发
 

@@ -158,10 +158,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a19c8b8fe7841bae",
+  "active": "d9fb538181fd1a71",
   "lastOpenFiles": [
     "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
     "00_schedule/00_work.md",
+    "study/应用软件/simulink集成培训.md",
+    "NvSwc/Requirenments/需求文档.md",
     "study/应用软件/应用软件沙龙.md",
     "未命名.md",
     "NvSwc/未命名.canvas",
@@ -170,7 +172,6 @@
     "study",
     "NvSwc/Requirenments/协议思考-待增加.md",
     "Pasted image 20231222175023.png",
-    "NvSwc/Requirenments/需求文档.md",
     "冒烟测试.md",
     "00_schedule",
     "NvSwc/test",
