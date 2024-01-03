@@ -11,11 +11,9 @@
             "id": "a19c8b8fe7841bae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md",
-                "mode": "source",
-                "source": false
+                "file": "00_schedule/00_work.md"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "39b9c5002ac7ee63",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md",
+                "file": "00_schedule/00_work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md",
+                "file": "00_schedule/00_work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md"
+                "file": "00_schedule/00_work.md"
               }
             }
           },
@@ -143,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +156,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d9fb538181fd1a71",
+  "active": "a19c8b8fe7841bae",
   "lastOpenFiles": [
-    "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
+    "study/诊断/诊断模块学习、开发.md",
     "00_schedule/00_work.md",
-    "study/应用软件/simulink集成培训.md",
+    "study/诊断",
     "NvSwc/Requirenments/需求文档.md",
+    "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
+    "study/应用软件/simulink集成培训.md",
     "study/应用软件/应用软件沙龙.md",
     "未命名.md",
     "NvSwc/未命名.canvas",
@@ -191,7 +191,6 @@
     "Pasted image 20231122141047.png",
     "image/ms/ModeSwitchInterface.png.md",
     "image/ms",
-    "image",
     "定义永久Ram类型code_swc.h.md",
     "定义永久Ram类型code.md"
   ]

@@ -11,12 +11,21 @@ kanban-plugin: basic
 - [ ] 广汽ZCU：IOC提库
 - [ ] 赛力斯：诊断Service2A、2C、29支持
 - [x] 赛力斯：31服务子功能没解析出来：解析出来了，放在DSPRoutine中的
+- [x] 港口车：Com信号配置不正确
+- [ ] 赛力斯：邮箱生成问题
+- [x] 赛力斯：BSWEventRef的没有恢复问题
 
 
-## nvswc升级
+## 平台支持
 
-- [x] PIM开发
-- [ ] PIM调试
+- [ ] Configurator：21-11 TPA
+
+
+## 重要不紧急 每<font color="#e36c09">两天至少2h</font>做
+
+- [ ] [simulink集成培训](simulink集成培训.md)
+- [ ] OS调试
+- [ ] [诊断模块学习、开发](诊断模块学习、开发.md)
 
 
 ## nvswc测试
@@ -24,16 +33,10 @@ kanban-plugin: basic
 - [ ] 冒烟测试改出来的TPA
 
 
-## 重要不紧急 每<font color="#e36c09">两天至少2h</font>做
+## nvswc升级
 
-- [ ] [simulink集成培训](simulink集成培训.md)
-- [ ] OS调试
-- [ ] 诊断模块学习、开发
-
-
-## 平台支持
-
-- [ ] Configurator：21-11 TPA
+- [x] PIM开发
+- [ ] PIM调试
 
 
 ***
