@@ -6,19 +6,20 @@ kanban-plugin: basic
 
 ## 项目支持
 
-- [x] 广汽：Com信号不生成的问题
 - [ ] 赛力斯：滤波工具生成路径和EB中的路径不一致 <font color="#92d050">缓</font>
 - [ ] 广汽ZCU：IOC提库
 - [ ] 赛力斯：诊断Service2A、2C、29支持
-- [x] 赛力斯：31服务子功能没解析出来：解析出来了，放在DSPRoutine中的
+- [ ] 微宏动力：E2E问题
 - [x] 港口车：Com信号配置不正确
 - [ ] 赛力斯：邮箱生成问题
 - [x] 赛力斯：BSWEventRef的没有恢复问题
+- [x] 赛力斯：CsmJob的KeyRef设置为User Define时，Csm_Data不支持解析的问题：设置为不支持User Define
 
 
 ## 平台支持
 
 - [ ] Configurator：21-11 TPA
+- [ ] Configurator：422和21-11的Dcm Rte_Call接口UserCode
 
 
 ## 重要不紧急 每<font color="#e36c09">两天至少2h</font>做
@@ -56,6 +57,8 @@ kanban-plugin: basic
 - [x] 2023-12-22 10:54 [冒烟测试](冒烟测试.md) ^5e9qj4
 - [x] 2023-12-22 10:54 Configurator 422 comCbk添加usercode
 - [x] 2023-12-27 17:07 [应用软件沙龙](应用软件沙龙.md)
+- [x] 2024-01-03 10:33 广汽：Com信号不生成的问题
+- [x] 2024-01-03 10:33 赛力斯：31服务子功能没解析出来：解析出来了，放在DSPRoutine中的
 
 %% kanban:settings
 ```
