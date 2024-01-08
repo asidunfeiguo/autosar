@@ -4,40 +4,51 @@ kanban-plugin: basic
 
 ---
 
+## 今日
+
+- [x] [UDS学习](#^8796e6)
+- [x] [Configurator：21-11 TPA](#^04de5b)
+- [ ] [Configurator：422和21-11的Dcm Rte_Call接口。UserCode。](#^3212ca)
+- [x] [微宏动力：E2E问题](#^46e15c)
+- [x] [赛力斯：滤波工具生成路径和EB中的路径不一致](#^7ace25)
+- [x] 赛力斯：邮箱生成问题
+- [ ] [冒烟测试改TPA](#^214a85)
+- [x] 月报
+- [x] 出差申请
+
+
 ## 项目支持
 
-- [ ] 赛力斯：滤波工具生成路径和EB中的路径不一致 <font color="#92d050">缓</font>
-- [ ] 广汽ZCU：IOC提库
+- [x] 微宏动力：E2E问题 ^46e15c
+- [x] 赛力斯：滤波工具生成路径和EB中的路径不一致 <font color="#92d050">缓</font> ^7ace25
+- [x] 赛力斯：邮箱生成问题
 - [ ] 赛力斯：诊断Service2A、2C、29支持
-- [ ] 微宏动力：E2E问题
+- [ ] 广汽ZCU：IOC提库
 - [x] 港口车：Com信号配置不正确
-- [ ] 赛力斯：邮箱生成问题
-- [x] 赛力斯：BSWEventRef的没有恢复问题
 - [x] 赛力斯：CsmJob的KeyRef设置为User Define时，Csm_Data不支持解析的问题：设置为不支持User Define
+- [x] 赛力斯：BSWEventRef的没有恢复问题
 
 
 ## 平台支持
 
-- [ ] Configurator：21-11 TPA
-- [ ] Configurator：422和21-11的Dcm Rte_Call接口UserCode
+- [ ] Configurator：21-11 TPA ^04de5b
+- [ ] Configurator：422和21-11的Dcm Rte_Call接口UserCode ^3212ca
+- [ ] 报错提示：dataelement和signal数据类型不一致时报错
 
 
 ## 重要不紧急 每<font color="#e36c09">两天至少2h</font>做
 
 - [ ] [simulink集成培训](simulink集成培训.md)
+- [ ] [诊断模块学习、开发](诊断模块学习、开发.md) ^8796e6
+- [ ] IOC架构
 - [ ] OS调试
-- [ ] [诊断模块学习、开发](诊断模块学习、开发.md)
-
-
-## nvswc测试
-
-- [ ] 冒烟测试改出来的TPA
 
 
 ## nvswc升级
 
 - [x] PIM开发
 - [ ] PIM调试
+- [ ] 冒烟测试改出来的TPA ^214a85
 
 
 ***
