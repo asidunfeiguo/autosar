@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "891db2989fda3d49",
+        "id": "45e507e8601f26ba",
         "type": "tabs",
         "children": [
           {
-            "id": "a19c8b8fe7841bae",
+            "id": "97a66bc7b8ef65d8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00_schedule/00_work.md"
+                "file": "出差.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "d239609a292712c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_schedule/00_work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_schedule/00_work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00_schedule/00_work.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +164,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a19c8b8fe7841bae",
+  "active": "d239609a292712c5",
   "lastOpenFiles": [
-    "study/诊断/诊断模块学习、开发.md",
+    "出差.md",
     "00_schedule/00_work.md",
+    "study/诊断/诊断模块学习、开发.md",
     "study/诊断",
     "NvSwc/Requirenments/需求文档.md",
     "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
