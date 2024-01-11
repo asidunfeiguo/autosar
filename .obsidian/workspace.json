@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "出差.md",
+                "file": "study/诊断/诊断模块学习、开发.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "study/诊断/诊断模块学习、开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "study/诊断/诊断模块学习、开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "study/诊断/诊断模块学习、开发.md"
+              }
             }
           },
           {
@@ -164,14 +167,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d239609a292712c5",
+  "active": "97a66bc7b8ef65d8",
   "lastOpenFiles": [
     "出差.md",
-    "00_schedule/00_work.md",
+    "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
     "study/诊断/诊断模块学习、开发.md",
+    "00_schedule/00_work.md",
     "study/诊断",
     "NvSwc/Requirenments/需求文档.md",
-    "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
     "study/应用软件/simulink集成培训.md",
     "study/应用软件/应用软件沙龙.md",
     "未命名.md",
