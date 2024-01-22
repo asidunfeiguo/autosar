@@ -26,6 +26,18 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "873a285c049611ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -169,15 +181,15 @@
   },
   "active": "97a66bc7b8ef65d8",
   "lastOpenFiles": [
-    "study/诊断/诊断模块学习、开发.md",
+    "ReadMe.md",
     "出差.md",
     "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
+    "study/诊断/诊断模块学习、开发.md",
     "00_schedule/00_work.md",
     "study/诊断",
     "NvSwc/Requirenments/需求文档.md",
     "study/应用软件/simulink集成培训.md",
     "study/应用软件/应用软件沙龙.md",
-    "未命名.md",
     "NvSwc/未命名.canvas",
     "NvSwc/test/冒烟测试.md",
     "study/应用软件",
