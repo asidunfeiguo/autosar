@@ -33,7 +33,7 @@ kanban-plugin: basic
 
 ## nvswc升级
 
-- [ ] PIM调试
+- [x] PIM调试
 - [ ] 冒烟测试改出来的TPA ^214a85
 
 
