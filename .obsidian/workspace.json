@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NvSwc/test/冒烟测试.md",
+                "file": "study/诊断/诊断模块学习、开发.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NvSwc/test/冒烟测试.md",
+                "file": "study/诊断/诊断模块学习、开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NvSwc/test/冒烟测试.md",
+                "file": "study/诊断/诊断模块学习、开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NvSwc/test/冒烟测试.md"
+                "file": "study/诊断/诊断模块学习、开发.md"
               }
             }
           },
@@ -161,9 +161,10 @@
   },
   "active": "873a285c049611ab",
   "lastOpenFiles": [
-    "00_schedule/00_work.md",
-    "study/诊断/诊断模块学习、开发.md",
     "出差.md",
+    "study/诊断/诊断模块学习、开发.md",
+    "NvSwc/test/冒烟测试.md",
+    "00_schedule/00_work.md",
     "ReadMe.md",
     "pic/Pasted image 20240226112438.png",
     "Designer修改记录.md",
@@ -173,7 +174,6 @@
     "study/应用软件/simulink集成培训.md",
     "study/应用软件/应用软件沙龙.md",
     "NvSwc/未命名.canvas",
-    "NvSwc/test/冒烟测试.md",
     "study/应用软件",
     "study",
     "NvSwc/Requirenments/协议思考-待增加.md",
