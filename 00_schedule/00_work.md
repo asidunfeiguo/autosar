@@ -4,22 +4,21 @@ kanban-plugin: basic
 
 ---
 
-## 0229
-
-- [ ] [冒烟测试改TPA](#^214a85)
-- [ ] 多核架构
-
-
 ## 项目支持
 
-- [ ] 赛力斯：诊断Service2A、2C、29支持
-- [ ] 广汽ZCU：IOC提库
+- [x] 润芯微多核
+- [x] 赛力斯designer的IRV生成不了API
 
 
 ## 平台支持
 
-- [ ] Configurator：21-11 TPA ^04de5b
 - [ ] 报错提示：dataelement和signal数据类型不一致时报错
+- [ ] Ecum添加不了E2E
+
+
+## nvswc升级
+
+- [ ] 冒烟测试 ^214a85
 
 
 ## 重要不紧急 每<font color="#e36c09">两天至少2h</font>做
@@ -29,12 +28,6 @@ kanban-plugin: basic
 - [ ] [诊断模块学习、开发](诊断模块学习、开发.md) ^8796e6
 - [ ] IOC架构
 - [ ] OS调试
-
-
-## nvswc升级
-
-- [x] PIM调试
-- [ ] 冒烟测试改出来的TPA ^214a85
 
 
 ***
@@ -73,6 +66,10 @@ kanban-plugin: basic
 - [x] 2024-02-26 11:21 赛力斯：BSWEventRef的没有恢复问题
 - [x] 2024-02-26 11:21 Configurator：422和21-11的Dcm Rte_Call接口UserCode ^3212ca
 - [x] 2024-02-26 11:21 PIM开发
+- [x] 2024-03-19 09:50 赛力斯：诊断Service2A、2C、29支持
+- [x] 2024-03-19 09:50 广汽ZCU：IOC提库
+- [x] 2024-03-19 09:50 PIM调试
+- [x] 2024-03-19 09:52 Configurator：21-11 TPA ^04de5b
 
 %% kanban:settings
 ```
