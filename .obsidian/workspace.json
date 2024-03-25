@@ -11,9 +11,11 @@
             "id": "873a285c049611ab",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00_schedule/00_work.md"
+                "file": "出差.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_schedule/00_work.md",
+                "file": "出差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_schedule/00_work.md",
+                "file": "出差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_schedule/00_work.md"
+                "file": "出差.md"
               }
             }
           },
@@ -159,10 +161,10 @@
   },
   "active": "873a285c049611ab",
   "lastOpenFiles": [
-    "出差.md",
     "study/诊断/诊断模块学习、开发.md",
-    "NvSwc/test/冒烟测试.md",
+    "出差.md",
     "00_schedule/00_work.md",
+    "NvSwc/test/冒烟测试.md",
     "ReadMe.md",
     "pic/Pasted image 20240226112438.png",
     "Designer修改记录.md",
