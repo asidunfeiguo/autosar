@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b500e81a2fde8dd0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "出差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "出差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "出差.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +163,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "873a285c049611ab",
+  "active": "b500e81a2fde8dd0",
   "lastOpenFiles": [
-    "study/诊断/诊断模块学习、开发.md",
     "出差.md",
+    "study/诊断/诊断模块学习、开发.md",
     "00_schedule/00_work.md",
     "NvSwc/test/冒烟测试.md",
     "ReadMe.md",
