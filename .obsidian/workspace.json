@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md",
+                "file": "出差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md",
+                "file": "出差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NvSwc/Requirenments/需求文档.md"
+                "file": "出差.md"
               }
             }
           },
@@ -171,8 +170,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b500e81a2fde8dd0",
+  "active": "873a285c049611ab",
   "lastOpenFiles": [
+    "pic/SWC+RTE原理及使用培训_21-11_英文-866c5f4986.md",
+    "NvSwc/Requirenments/需求文档.md",
     "出差.md",
     "study/诊断/诊断模块学习、开发.md",
     "00_schedule/00_work.md",
@@ -182,7 +183,6 @@
     "Designer修改记录.md",
     "Rte/EAS21-11_Rte需求/EAS_Rte_Requirenments.md",
     "study/诊断",
-    "NvSwc/Requirenments/需求文档.md",
     "study/应用软件/simulink集成培训.md",
     "study/应用软件/应用软件沙龙.md",
     "NvSwc/未命名.canvas",
